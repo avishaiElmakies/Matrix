@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Matrix</string>
+    <string name="string0">upper part</string>
+    <string name="string1">Lower part</string>
+    <string name="string2">Diagnols</string>
+    <string name="string3">Border</string>
+</resources>
